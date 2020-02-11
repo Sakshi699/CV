@@ -1,0 +1,50 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+	cout<<" "<<endl;
+	cout<<" "<<endl;
+	cout<<" "<<endl;
+	cout<<"                                                   Sakshi Agrawal                                                      "<<endl;
+	cout<<"                                                Rohini,New-Delhi                                                   "<<endl;
+	cout<<"                                                  India,44600                                                      "<<endl;
+	cout<<"                                          +91-9707678001|Sakshioo9@gmail.com                                          "<<endl;
+	
+	cout<<" "<<endl;
+	cout<<" "<<endl;
+	cout<<" "<<endl;
+    cout<<"          OBJECTIVE       "<<endl;
+    cout<<"          __________________________________________________________________________________________________________"<<endl;
+    cout<<" "<<endl;
+    cout<<" "<<endl;
+    cout<<"          To pursue a career path wherein I will be able to utilise my life experiences,interpersonal skills ability"<<endl;
+	cout<<"          with people to work well with people not only to grow personally and professionally,but also to firmly con"<<endl;
+	cout<<"          -tribute towards the achievement of the vision and mission of the organisation"<<endl;
+	cout<<" "<<endl;
+	cout<<"          EDUCATION       "<<endl;
+	cout<<"          __________________________________________________________________________________________________________"<<endl;
+	cout<<" "<<endl;
+	cout<<" "<<endl;
+	cout<<"          NIT                                                                                       Warangal,India"<<endl;
+	cout<<"          Pursuing Software Engineering                                                              December,2019"<<endl;
+	cout<<" "<<endl;
+	cout<<"          DAV Sushil Kedia Vishwa Bharati Higher Secondary School                                  New-Delhi,India"<<endl;
+	cout<<"          S.S.C/H.S.C(Science)                                                                           2017-2019"<<endl;
+	cout<<" "<<endl;
+	cout<<"          EXPERIENCE                                                                                                "<<endl;
+	cout<<"          __________________________________________________________________________________________________________"<<endl;
+	cout<<" "<<endl;
+	cout<<" "<<endl;
+	cout<<"          6 Month Teaching Experience                                                                           2019 "<<endl;
+	cout<<" "<<endl;
+	cout<<"          ACHIEVEMENTS,SKILLS,ACTIVITIES AND INTEREST                                                              "<<endl;
+	cout<<"          __________________________________________________________________________________________________________"<<endl;
+	cout<<" "<<endl;
+	cout<<"          * Language proficiency: English, Hindi, Nepali and French                                                 "<<endl;
+	cout<<"          * Skills: Programming, Digital, Problem-solving, Communication and Leadership skill                       "<<endl;
+	cout<<"          * Adventure sports enthusiast, other interests including travelling,sketching                             "<<endl;
+	cout<<"          * Participated in several Badminton Tournament                                                            "<<endl;
+	cout<<"          * Character tree award holder,Cultural Captain of House in school,President of Hindi Clud                 "<<endl;
+	cout<<"            Nominated for head girl                                                                                 "<<endl;
+	return 0;
+}
